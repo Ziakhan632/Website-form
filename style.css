@@ -1,0 +1,14 @@
+
+*{
+    background-color: #f7f7f7;
+}
+form{
+    padding: 80px;
+}
+.texta{
+   padding: 20px;
+    width: -webkit-fill-available;
+}
+h2{
+    padding: 50px 80px 10px;
+}
